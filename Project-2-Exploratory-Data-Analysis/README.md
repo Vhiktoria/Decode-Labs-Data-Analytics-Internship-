@@ -24,7 +24,7 @@ The distribution of `Total_Price` was right-skewed. Most orders had relatively l
 
 This suggests that the dataset contains many smaller-value orders alongside fewer high-value orders.
 
-![Total Price Distribution](images/Total_price.JPG)
+![Total Price Distribution](https://github.com/Vhiktoria/Decode-Labs-Data-Analytics-Internship-/blob/main/Project-2-Exploratory-Data-Analysis/images/Total_price.JPG)
 
 ### Unit Price
 
@@ -44,7 +44,7 @@ This indicates that customers made both smaller and relatively larger quantity p
 
 This suggests that customers generally tend to have a moderate number of items in their carts.
 
-![Items in Cart Distribution](images/items_in_cart.png)
+![Items in Cart Distribution](https://github.com/Vhiktoria/Decode-Labs-Data-Analytics-Internship-/blob/main/Project-2-Exploratory-Data-Analysis/images/items_in_cart.JPG)
 
 ---
 
@@ -56,7 +56,7 @@ Online payment was the most frequently used payment method, followed closely by 
 
 This indicates that customers use a variety of payment methods, with online payment being slightly more popular.
 
-![Payment Method](images/payment_method.png)
+![Payment Method](https://github.com/Vhiktoria/Decode-Labs-Data-Analytics-Internship-/blob/main/Project-2-Exploratory-Data-Analysis/images/payment_method.JPG)
 
 ### Order Status
 
@@ -64,7 +64,7 @@ Order statuses were relatively evenly distributed. Cancelled orders were the mos
 
 The relatively high number of cancelled and returned orders may be worth monitoring, although the dataset does not provide the reasons for these outcomes.
 
-![Order Status](images/order_status.png)
+![Order Status](https://github.com/Vhiktoria/Decode-Labs-Data-Analytics-Internship-/blob/main/Project-2-Exploratory-Data-Analysis/images/order_status.JPG)
 
 ### Referral Source
 
@@ -72,7 +72,7 @@ Instagram was the most common referral source with 259 orders, followed by Email
 
 This shows that customers came through a range of referral channels, with Instagram having a slight lead.
 
-![Referral Source](images/referral_source.png)
+![Referral Source](https://github.com/Vhiktoria/Decode-Labs-Data-Analytics-Internship-/blob/main/Project-2-Exploratory-Data-Analysis/images/referral_source.JPG)
 
 ### Coupon Code
 
@@ -86,7 +86,7 @@ The number of orders across products was relatively balanced. Printer had the hi
 
 This suggests that demand was distributed across the different products rather than being concentrated on one product.
 
-![Product Order Count](images/product_order.png)
+![Product Order Count](https://github.com/Vhiktoria/Decode-Labs-Data-Analytics-Internship-/blob/main/Project-2-Exploratory-Data-Analysis/images/product_order.JPG)
 
 ---
 
@@ -100,9 +100,9 @@ June 2024 recorded the highest monthly total order value at **68,068.54**, while
 
 These fluctuations could be further investigated using additional business information such as promotions, product availability, or marketing activities.
 
-![Monthly Order Count](images/monthly_order_count.png)
+![Monthly Order Count](https://github.com/Vhiktoria/Decode-Labs-Data-Analytics-Internship-/blob/main/Project-2-Exploratory-Data-Analysis/images/monthly_order_count.JPG)
 
-![Monthly Total Order Value](images/monthly_total_order_value.png)
+![Monthly Total Order Value](https://github.com/Vhiktoria/Decode-Labs-Data-Analytics-Internship-/blob/main/Project-2-Exploratory-Data-Analysis/images/monthly_total_order_value.JPG)
 
 ---
 
@@ -130,7 +130,7 @@ Chair had the highest combined total order value at **195,620.11**, closely foll
 
 This provides an indication of which products are associated with higher overall order values and can support decisions around inventory and promotional planning.
 
-![Product vs Total Order Value](images/product_total_order_value.png)
+![Product vs Total Order Value](https://github.com/Vhiktoria/Decode-Labs-Data-Analytics-Internship-/blob/main/Project-2-Exploratory-Data-Analysis/images/product_total_order_value.JPG)
 
 ### Order Status and Total Order Value
 
@@ -144,7 +144,7 @@ Orders attributed to Instagram had the highest combined total order value at **2
 
 This suggests that Instagram is an important channel within the dataset and may be worth monitoring as part of the business's marketing activities. However, the analysis does not establish that Instagram caused the higher order value.
 
-![Referral Source vs Total Order Value](images/referral_source_total_order_value.png)
+![Referral Source vs Total Order Value](https://github.com/Vhiktoria/Decode-Labs-Data-Analytics-Internship-/blob/main/Project-2-Exploratory-Data-Analysis/images/referral_source_total_order_value.JPG)
 
 ---
 
