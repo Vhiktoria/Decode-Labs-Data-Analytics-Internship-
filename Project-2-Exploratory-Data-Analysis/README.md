@@ -24,7 +24,7 @@ The distribution of `Total_Price` was right-skewed. Most orders had relatively l
 
 This suggests that the dataset contains many smaller-value orders alongside fewer high-value orders.
 
-![Total Price Distribution](images/Total_price.png)
+![Total Price Distribution](images/Total_price.JPG)
 
 ### Unit Price
 
