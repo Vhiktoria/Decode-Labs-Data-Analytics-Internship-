@@ -188,5 +188,5 @@ Overall, the dataset showed varied customer purchasing behaviour, fluctuating or
 ## Project Files
 
 - `EDA.ipynb` – Jupyter Notebook containing the complete analysis
-- `Cleaned_Data.csv` – Cleaned dataset used for the analysis
+- `cleaned_dataset.csv` – Cleaned dataset used for the analysis
 - `images/` – Selected visualizations from the analysis
